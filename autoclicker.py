@@ -4,6 +4,7 @@ import keyboard
 import asyncio
 
 time.sleep(3)
+print("starting")
 
 
 async def reach(field):
